@@ -1,0 +1,5 @@
+Equipment,Latest_RMS,Current_Status,Trend,Est_Failure_Date
+(CHPP) Cooling Pump for OAH-02,24.63,Zone D (Red) - DAMAGE OCCURS,Stable or Improving,N/A
+Motor Compressor OAH-06_A,0.25,Zone A (Green) - Newly commissioned,Degrading,2024-11-16
+Jockey Pump,0.48,Zone A (Green) - Newly commissioned,Stable or Improving,N/A
+Cooling Pump for OAH-02,0.59,Zone A (Green) - Newly commissioned,Stable or Improving,N/A
