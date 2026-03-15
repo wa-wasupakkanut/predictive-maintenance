@@ -142,6 +142,3 @@ maintenance_report.csv
 * downtime
 * maintenance cost
 * machine failure
-
-
-ผมทำให้สวยขึ้นได้อีกเยอะเลยครับ 🚀
